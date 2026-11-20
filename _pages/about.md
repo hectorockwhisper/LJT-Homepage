@@ -26,8 +26,6 @@ Awards
 
 Publications
 ======
-(* denotes first author; author order as listed in the publications)
-
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. 2025. Published on Arxiv. GitHub code repository available.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding.** **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. 2025. Published on Arxiv. GitHub code repository: Vision4Chart.
